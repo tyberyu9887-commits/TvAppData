@@ -1,0 +1,30 @@
+{
+  "genres": ["Action", "Comedy", "Drama", "Horror", "Romance", "Mecha", "Shonen"],
+  "anime": [
+    {
+      "title": "Ansatsu Kyoushitsu",
+      "fullTitle": "Ansatsu Kyoushitsu / Assassination Classroom (Season 1)",
+      "genre": "Action",
+      "coverImage": "https://img1.ak.crunchyroll.com/i/spitfire/40a0c98f80f6828b12f6a70e7e1b5f631422619472_full.jpg",
+      "episodes": [
+        { "number": 1, "title": "Timpul asasinării", "videoUrl": "https://archive.org/download/anime-kage-assassination-classroom-01-ro-sub/%5BAnimeKage%5D%20Assassination%20Classroom%20-%2001%20%5BRoSub%5D.mp4" },
+        { "number": 2, "title": "Timpul pentru baseball", "videoUrl": "https://archive.org/download/anime-kage-assassination-classroom-02-ro-sub/%5BAnimeKage%5D%20Assassination%20Classroom%20-%2002%20%5BRoSub%5D.mp4" }
+      ],
+      "skipIntroStartSec": 40,
+      "skipIntroEndSec": 300,
+      "skipIntroDurationSec": 80
+    },
+    {
+      "title": "Naruto",
+      "fullTitle": "Naruto: Shippuuden - Aventura continuă",
+      "genre": "Shonen",
+      "coverImage": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1314/6a8047021666497f6c31f4798305c48b77cc41144c9b3259.png",
+      "episodes": [
+        { "number": 1, "title": "Aventura 1", "videoUrl": "" }
+      ],
+      "skipIntroStartSec": 60,
+      "skipIntroEndSec": 300,
+      "skipIntroDurationSec": 90
+    }
+  ]
+}
