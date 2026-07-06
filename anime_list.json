@@ -1,30 +1,85 @@
 {
-  "genres": ["Action", "Comedy", "Drama", "Horror", "Romance", "Mecha", "Shonen"],
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama",
+    "Horror",
+    "Romance",
+    "Mecha",
+    "Shonen"
+  ],
   "anime": [
     {
       "title": "Ansatsu Kyoushitsu",
       "fullTitle": "Ansatsu Kyoushitsu / Assassination Classroom (Season 1)",
       "genre": "Action",
-      "coverImage": "https://img1.ak.crunchyroll.com/i/spitfire/40a0c98f80f6828b12f6a70e7e1b5f631422619472_full.jpg",
-      "episodes": [
-        { "number": 1, "title": "Timpul asasinării", "videoUrl": "https://archive.org/download/anime-kage-assassination-classroom-01-ro-sub/%5BAnimeKage%5D%20Assassination%20Classroom%20-%2001%20%5BRoSub%5D.mp4" },
-        { "number": 2, "title": "Timpul pentru baseball", "videoUrl": "https://archive.org/download/anime-kage-assassination-classroom-02-ro-sub/%5BAnimeKage%5D%20Assassination%20Classroom%20-%2002%20%5BRoSub%5D.mp4" }
-      ],
+      "coverImage": "asasin_cover",
       "skipIntroStartSec": 40,
       "skipIntroEndSec": 300,
-      "skipIntroDurationSec": 80
+      "skipIntroDurationSec": 80,
+      "episodes": [
+        {
+          "number": 1,
+          "title": "Timpul asasinării",
+          "videoUrl": "https://archive.org/download/anime-kage-assassination-classroom-01-ro-sub/%5BAnimeKage%5D%20Assassination%20Classroom%20-%2001%20%5BRoSub%5D.mp4"
+        },
+        {
+          "number": 2,
+          "title": "Timpul pentru baseball",
+          "videoUrl": "https://archive.org/download/anime-kage-assassination-classroom-02-ro-sub/%5BAnimeKage%5D%20Assassination%20Classroom%20-%2002%20%5BRoSub%5D.mp4"
+        },
+        {
+          "number": 3,
+          "title": "Timpul lui Karma",
+          "videoUrl": "https://archive.org/download/anime-kage-assassination-classroom-03-ro-sub/%5BAnimeKage%5D%20Assassination%20Classroom%20-%2003%20%5BRoSub%5D.mp4"
+        },
+        {
+          "number": 4,
+          "title": "Vremea maturizării",
+          "videoUrl": "https://archive.org/download/anime-kage-assassination-classroom-04-ro-sub/%5BAnimeKage%5D%20Assassination%20Classroom%20-%2004%20%5BRoSub%5D.mp4"
+        },
+        {
+          "number": 5,
+          "title": "Timpul Întrunirii",
+          "videoUrl": "https://archive.org/download/anime-kage-assassination-classroom-05-ro-sub/%5BAnimeKage%5D%20Assassination%20Classroom%20-%2005%20%5BRoSub%5D.mp4"
+        },
+        {
+          "number": 6,
+          "title": "Timpul pentru examen",
+          "videoUrl": "https://archive.org/download/anime-kage-assassination-classroom-06-ro-sub/%5BAnimeKage%5D%20Assassination%20Classroom%20-%2006%20%5BRoSub%5D.mp4"
+        },
+        {
+          "number": 7,
+          "title": "Excursie (Partea 1)",
+          "videoUrl": "https://archive.org/download/anime-kage-assassination-classroom-07-ro-sub/%5BAnimeKage%5D%20Assassination%20Classroom%20-%2007%20%5BRoSub%5D.mp4"
+        },
+        {
+          "number": 8,
+          "title": "Excursie (Partea 2)",
+          "videoUrl": "https://archive.org/download/anime-kage-assassination-classroom-08-ro-sub/%5BAnimeKage%5D%20Assassination%20Classroom%20-%2008%20%5BRoSub%5D.mp4"
+        },
+        {
+          "number": 9,
+          "title": "Timpul elevului transferat",
+          "videoUrl": "https://archive.org/download/anime-kage-assassination-classroom-09-ro-sub/%5BAnimeKage%5D%20Assassination%20Classroom%20-%2009%20%5BRoSub%5D.mp4"
+        }
+      ]
     },
     {
       "title": "Naruto",
       "fullTitle": "Naruto: Shippuuden - Aventura continuă",
       "genre": "Shonen",
-      "coverImage": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1314/6a8047021666497f6c31f4798305c48b77cc41144c9b3259.png",
-      "episodes": [
-        { "number": 1, "title": "Aventura 1", "videoUrl": "" }
-      ],
+      "coverImage": "naruto_cover",
       "skipIntroStartSec": 60,
       "skipIntroEndSec": 300,
-      "skipIntroDurationSec": 90
+      "skipIntroDurationSec": 90,
+      "episodes": [
+        {
+          "number": 1,
+          "title": "Aventura 1",
+          "videoUrl": ""
+        }
+      ]
     }
   ]
 }
